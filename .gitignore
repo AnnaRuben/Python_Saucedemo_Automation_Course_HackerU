@@ -1,0 +1,12 @@
+# Python & Pytest
+.pytest_cache/
+**/__pycache__/
+*.py[cod]
+
+# Temporary files (Office & System)
+~$*
+~WRL*.tmp
+*.tmp
+
+# Editor settings
+.vscode/
